@@ -1,3 +1,3 @@
-# qqsight
-qqsight prepare
-It is a brief intro of quicksight of amazon
+# QuickSight introduce
+
+It is a brief introduction of QuickSight of amazon
